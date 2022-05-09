@@ -1,27 +1,11 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/justgoodin/stocky/badge)](https://www.codefactor.io/repository/github/justgoodin/stocky)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjustgoodin%2Fstocky.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjustgoodin%2Fstocky?ref=badge_shield)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![license](https://img.shields.io/github/license/justgoodin/stocky)](https://choosealicense.com/licenses/gpl-3.0/)
-
-# Stocky McStockface 
-**Stocky Will help you generate a consolidated list of Instruments**
-1. by mapping their ISIN codes to
+# Stockdetails-Matchee
+**Stockdetails-Matchee Will help you automatically generate a consolidated list of Instruments**
+1. By mapping their ISIN codes to
     1. BSE Stock codes and symbols
     2. NSE symbols
     3. Zerodha symbols
     4. Yahoo symbols (Both .NS and .BO)
 
-# Installation
-Clone the repository
-
-```bash
-git clone https://github.com/justgoodin/stocky.git
-```
-
-Install the dependencies
-```
-pip install --upgrade requirements.txt
-```
 
 # Instructions
 
