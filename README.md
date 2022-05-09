@@ -36,16 +36,4 @@ python3 ./app.py
 
 Or open it in your favourite code editor and run from there. 
 
-## UI Options
-There are three options
-
-**1. Rebuild stocky.db from scratch:** 
-This will delete the existing copy of stocky.db and recreate it from scratch. Requires bhavcopies and zerodha instruments in their respective locations
-
-**2. Update all Yahoo data:** 
-Downloads Yahoo data using yahooquery library
-
-**3. Exit:** 
-Exit the program
-
 
